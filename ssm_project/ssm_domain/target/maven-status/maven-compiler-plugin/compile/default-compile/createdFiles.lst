@@ -1,0 +1,8 @@
+com\zl52074\domain\Role.class
+com\zl52074\domain\Traveller.class
+com\zl52074\domain\Member.class
+com\zl52074\domain\Permission.class
+com\zl52074\domain\SysLog.class
+com\zl52074\domain\Product.class
+com\zl52074\domain\Orders.class
+com\zl52074\domain\UserInfo.class

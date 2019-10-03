@@ -1,0 +1,12 @@
+com\zl52074\service\impl\SysLogServiceImpl.class
+com\zl52074\service\UserService.class
+com\zl52074\service\OrdersService.class
+com\zl52074\service\RoleService.class
+com\zl52074\service\impl\OrdersServiceImpl.class
+com\zl52074\service\impl\ProductServiceImpl.class
+com\zl52074\service\impl\PermissionServiceImpl.class
+com\zl52074\service\ProductService.class
+com\zl52074\service\SysLogService.class
+com\zl52074\service\PermissionService.class
+com\zl52074\service\impl\UserServiceImpl.class
+com\zl52074\service\impl\RoleServiceImpl.class

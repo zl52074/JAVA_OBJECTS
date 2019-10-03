@@ -1,0 +1,8 @@
+com\zl52074\dao\UserDao.class
+com\zl52074\dao\PermissionDao.class
+com\zl52074\dao\RoleDao.class
+com\zl52074\dao\TravellerDao.class
+com\zl52074\dao\SysLogDao.class
+com\zl52074\dao\ProductDao.class
+com\zl52074\dao\MemberDao.class
+com\zl52074\dao\OrdersDao.class
